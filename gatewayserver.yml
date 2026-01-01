@@ -1,5 +1,5 @@
 server:
-  port:8072
+  port: 8072
  # we want gateway server to register with eureka so that the gateway server may know about other microservices
 eureka:
   instance:
